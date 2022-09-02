@@ -1,0 +1,15 @@
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/obj/Debug/net6.0/lesson3.csproj.AssemblyReference.cache
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/obj/Debug/net6.0/lesson3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/obj/Debug/net6.0/lesson3.AssemblyInfoInputs.cache
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/obj/Debug/net6.0/lesson3.AssemblyInfo.cs
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/obj/Debug/net6.0/lesson3.csproj.CoreCompileInputs.cache
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/bin/Debug/net6.0/lesson3
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/bin/Debug/net6.0/lesson3.deps.json
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/bin/Debug/net6.0/lesson3.runtimeconfig.json
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/bin/Debug/net6.0/lesson3.dll
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/bin/Debug/net6.0/lesson3.pdb
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/obj/Debug/net6.0/lesson3.dll
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/obj/Debug/net6.0/refint/lesson3.dll
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/obj/Debug/net6.0/lesson3.pdb
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/obj/Debug/net6.0/lesson3.genruntimeconfig.cache
+/Users/ekaterinamakarova/Desktop/lesson/lesson3/obj/Debug/net6.0/ref/lesson3.dll
